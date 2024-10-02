@@ -14,29 +14,68 @@ KathaStream is a platform showcasing local short films and regional content, foc
 
 Here are some visual representations of different pages from the project:
 
-### Register
-![Register Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/RegisterImg.png)
+### Register 
+
+
+
+![Register Screenshot](https://raw.githubusercontent.com/aishasinha15/KathaStream/main/ss/RegisterImg.jpeg)
+
+
 
 ### Login
-![Login Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/LoginImg.png)
+
+
+
+![Login Screenshot](https://raw.githubusercontent.com/aishasinha15/KathaStream/main/ss/LoginImg.jpeg)
+
+
 
 ### Home
-![Home Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/HomePageImg.png)
+
+
+
+![Home Screenshot](https://raw.githubusercontent.com/aishasinha15/KathaStream/main/ss/HomePageImg.jpeg)
+
+
 
 ### Info Dialog
-![Info Dialog Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/InfoDialogImg.png)
+
+
+
+![Info Dialog Screenshot](https://raw.githubusercontent.com/aishasinha15/KathaStream/main/ss/InfoDialogImg.jpeg)
+
+
 
 ### Movie List
-![Movie List Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/MovieListImg.png)
+
+
+
+![Movie List Screenshot](https://raw.githubusercontent.com/aishasinha15/KathaStream/main/ss/MovieListImg.jpeg)
+
+
 
 ### Movie Dialog
-![Movie Dialog Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/MovieDialogImg.png)
+
+
+
+![Movie Dialog Screenshot](https://raw.githubusercontent.com/aishasinha15/KathaStream/main/ss/MovieDialogImg.jpeg)
+
+
 
 ### My List
-![My List Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/myListImg.png)
+
+
+
+![My List Screenshot](https://raw.githubusercontent.com/aishasinha15/KathaStream/main/ss/myListImg.jpeg)
+
+
 
 ### Search
-![Search Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/SearchImg.png)
+
+
+
+![Search Screenshot](https://raw.githubusercontent.com/aishasinha15/KathaStream/main/ss/SearchImg.jpeg)
+
 
 
 ## Getting Started
