@@ -10,6 +10,35 @@ KathaStream is a platform showcasing local short films and regional content, foc
 - **Search History:** Keep track of your previous searches to easily revisit films.
 - **Movie Cards:** Browse through visually appealing movie cards with relevant details.
 
+## Screenshots
+
+Here are some visual representations of different pages from the project:
+
+### Register
+![Register Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/RegisterImg.png)
+
+### Login
+![Login Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/LoginImg.png)
+
+### Home
+![Home Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/HomePageImg.png)
+
+### Info Dialog
+![Info Dialog Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/InfoDialogImg.png)
+
+### Movie List
+![Movie List Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/MovieListImg.png)
+
+### Movie Dialog
+![Movie Dialog Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/MovieDialogImg.png)
+
+### My List
+![My List Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/myListImg.png)
+
+### Search
+![Search Screenshot](https://github.com/aishasinha15/KathaStream.git/ss/SearchImg.png)
+
+
 ## Getting Started
 
 To get started with KathaStream, follow these steps:
