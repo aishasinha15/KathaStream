@@ -10,6 +10,10 @@ KathaStream is a platform showcasing local short films and regional content, foc
 - **Search History:** Keep track of your previous searches to easily revisit films.
 - **Movie Cards:** Browse through visually appealing movie cards with relevant details.
 
+## Demo
+
+Click [here](https://photos.app.goo.gl/sa75pEVtFCj8WweV7) to see a demo of the project.
+
 ## Screenshots
 
 Here are some visual representations of different pages from the project:
