@@ -11,7 +11,8 @@ Aligned with the **Make in India** and **Local Made Global** initiatives, KathaS
 - **Search History:** Keep track of your previous searches to easily revisit films.
 - **Movie Cards:** Browse through visually appealing movie cards with relevant details.
 - **AskAI:** Get answers to general questions and platform-related queries using the **Gemini API**.
-**Recommendations:** Discover the top 10 movie recommendations with names and overviews, powered by **content-based filtering** using **cosine similarity**.
+- **Recommendations:** Discover the top 10 movie recommendations with names and overviews, powered by **content-based filtering** using **cosine similarity**.
+
 
 
 ## Demo
