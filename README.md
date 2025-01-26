@@ -163,7 +163,7 @@ After starting both the frontend and backend, you can:
 - Register or log in to your account.
 - Search for movies using the search feature.
 - Manage your list of movies and view your search history.
--AskAI for general or platform-specific queries.
+- AskAI for general or platform-specific queries.
 - Get personalized movie recommendations using cosine similarity.
 
 
